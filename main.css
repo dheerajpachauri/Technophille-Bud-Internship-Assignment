@@ -346,11 +346,11 @@ body {
     margin-bottom: 0%;
 }
 
-@media only screen and (max-width: 540px) {
+@media only screen and (max-width: 360px) {
     #header {
         width: 100vw;
         height: 18vh;
-        background: #c2c2a3;
+        background: black;
     }
     #sideMenu {
         float: left;
