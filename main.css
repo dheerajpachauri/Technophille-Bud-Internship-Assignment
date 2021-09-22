@@ -346,7 +346,7 @@ body {
     margin-bottom: 0%;
 }
 
-@media only screen and (max-width: 720px) {
+@media only screen and (max-width: 540px) {
     #header {
         width: 100vw;
         height: 18vh;
